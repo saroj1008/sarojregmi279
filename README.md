@@ -20,22 +20,15 @@ Here are some ideas to get you started:
 ---
 
 ## 🌟 Full Stack Projects:
-- [Project 1](https://github.com/yourusername/project1)
-  - Technologies: Node.js, Express, React, MongoDB
-  - Short project description.
-- [Project 2](https://github.com/yourusername/project2)
-  - Technologies: Angular, TypeScript, Spring Boot, PostgreSQL
-  - Short project description.
-<!-- Add more full stack projects -->
----
 
 #### ⚛️ React Projects:
-- [React Project 1](https://github.com/yourusername/react-project1)
-  - Technologies: React, Redux, Node.js, PostgreSQL
-  - Short project description.
-- [React Project 2](https://github.com/yourusername/react-project2)
-  - Technologies: React, Firebase, Material-UI
-  - Short project description.
+- [MERN-Stack-Integration-for-Book-Store-Application](https://github.com/sarojregmi279/MERN-Stack-Integration-for-Book-Store-Application)
+  - Technologies: React, Node.js, Express, MongoDB, jwt, React Hooks, Context API, Refs, Reducers, CSS, Material UI
+  - Developed a fully responsive bookstore web application with role authentication for both customers and administrators, separate dashboards for each role, offering comprehensive bookmanagement functionalities, ensuring secure book purchases, implementing language translation (in Nepali), and integrating Stripe payment.
+    
+-  [Restaurant Mobile Application](https://github.com/sarojregmi279/React-Native-Restaurant-App)
+    - Technologies:  React Native, Node.js, Express, MongoDB, JWT, CSS, Material UI
+    -  Built a feature-rich mobile app for restaurant management, including user registration, menu browsing, note-taking, and review functionality.
 <!-- Add more React projects -->
 ---
 
