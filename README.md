@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sarojregmi279/sarojregmi279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,23 +17,38 @@ Here are some ideas to get you started:
 <!-- <p align="right"> <img src="https://images.unsplash.com/photo-1637778352878-f0b46d574a04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80" /> </p> -->
 
 
-### 🌟 Front-end Projects:
-- [Project 1](https://github.com/yourusername/project1) - Short project description.
-- [Project 2](https://github.com/yourusername/project2) - Short project description.
-<!-- Add more front-end projects -->
-
 ---
 
-### ⚛️ React Projects:
-- [Project 1](https://github.com/yourusername/project1) - Short project description.
-- [Project 2](https://github.com/yourusername/project2) - Short project description.
+## 🌟 Full Stack Projects:
+- [Project 1](https://github.com/yourusername/project1)
+  - Technologies: Node.js, Express, React, MongoDB
+  - Short project description.
+- [Project 2](https://github.com/yourusername/project2)
+  - Technologies: Angular, TypeScript, Spring Boot, PostgreSQL
+  - Short project description.
+<!-- Add more full stack projects -->
+---
+
+#### ⚛️ React Projects:
+- [React Project 1](https://github.com/yourusername/react-project1)
+  - Technologies: React, Redux, Node.js, PostgreSQL
+  - Short project description.
+- [React Project 2](https://github.com/yourusername/react-project2)
+  - Technologies: React, Firebase, Material-UI
+  - Short project description.
 <!-- Add more React projects -->
-
 ---
 
-### 🅰️ Angular Projects:
-- [Project 1](https://github.com/yourusername/project1) - Short project description.
-- [Project 2](https://github.com/yourusername/project2) - Short project description.
+#### 🅰️ Angular Projects:
+- [Angular Project 1](https://github.com/yourusername/angular-project1)
+  - Technologies: Angular, Node.js, MongoDB
+  - Short project description.
+- [Angular Project 2](https://github.com/yourusername/angular-project2)
+  - Technologies: Angular, Firebase, Bootstrap
+  - Short project description.
+<!-- Add more Angular projects -->
+---
+
 <!-- Add more Angular projects -->
 
 - 📫 How to reach me **sarojregmi279@gmail.com**
