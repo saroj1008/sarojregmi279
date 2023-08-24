@@ -23,26 +23,34 @@ Here are some ideas to get you started:
 
 #### ⚛️ React Projects:
 - [MERN-Stack-Integration-for-Book-Store-Application](https://github.com/sarojregmi279/MERN-Stack-Integration-for-Book-Store-Application)
-  - Technologies: React, Node.js, Express, MongoDB, jwt, React Hooks, Context API, Refs, Reducers, CSS, Material UI
-  - Developed a fully responsive bookstore web application with role authentication for both customers and administrators, separate dashboards for each role, offering comprehensive bookmanagement functionalities, ensuring secure book purchases, implementing language translation (in Nepali), and integrating Stripe payment.
+- Technologies: React, Material UI, Node.js, MongoDB, Stripe
     
--  [Restaurant Mobile Application](https://github.com/sarojregmi279/React-Native-Restaurant-App)
-    - Technologies:  React Native, Node.js, Express, MongoDB, JWT, CSS, Material UI
-    -  Built a feature-rich mobile app for restaurant management, including user registration, menu browsing, note-taking, and review functionality.
+-  [Restaurant Mobile Application using React Native](https://github.com/sarojregmi279/React-Native-Restaurant-App)
+- Technologies: ReactNative, Material UI, Node.js, MongoDB
 <!-- Add more React projects -->
 ---
 
 #### 🅰️ Angular Projects:
-- [Angular Project 1](https://github.com/yourusername/angular-project1)
-  - Technologies: Angular, Node.js, MongoDB
-  - Short project description.
-- [Angular Project 2](https://github.com/yourusername/angular-project2)
-  - Technologies: Angular, Firebase, Bootstrap
-  - Short project description.
+- [MEAN stack Splitwise application](https://github.com/sarojregmi279/AngularSplitwiseApp)
+  - Technologies: Angular,Typescript, Node.js, MongoDB
+    
+- [Angular ToDo Application](https://github.com/yourusername/angular-project2)
+
 <!-- Add more Angular projects -->
 ---
 
+#### 📱 Twitter Application (Frontend: JavaScript, HTML, CSS, Backend: Node.js)
+[TwitterApp-using-HTML-CSS-and-JavaScript](https://github.com/sarojregmi279/TwitterApp-using-HTML-CSS-and-JavaScript)
+- Technologies:  React Native, Node.js, Express, MongoDB, JWT, CSS, Material UI
+- Built a feature-rich mobile app for restaurant management, including user registration, menu browsing, note-taking, and review functionality.
+---
+
+#### 🏢 Node Project (Backend: Node.js)
+[Manage Apartment in an area using NodeJS and MongoDB](https://github.com/sarojregmi279/Project-Restful-API-using-Postman-Node.js-Express.js-JWT)
+- Technologies: Node.js, MongoDB
+- Description of the Node.js project.
 <!-- Add more Angular projects -->
+---
 
 - 📫 How to reach me **sarojregmi279@gmail.com**
 
