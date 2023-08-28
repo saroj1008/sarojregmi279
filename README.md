@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -  [Restaurant Mobile Application using React Native](https://github.com/sarojregmi279/React-Native-Restaurant-App)
 - Technologies: ReactNative, Material UI, Node.js, MongoDB
 
--  [Music player Application] (https://github.com/sarojregmi279/React-Music-Player-App)
+-  [Music player Application](https://github.com/sarojregmi279/React-Music-Player-App)
 - Technologies: React, Bootstrap, Node.js, MongoDB
   
 <!-- Add more React projects -->
