@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 #### 📱 Twitter Application (Frontend: JavaScript, HTML, CSS, Backend: Node.js)
 [TwitterApp-using-HTML-CSS-and-JavaScript](https://github.com/sarojregmi279/TwitterApp-using-HTML-CSS-and-JavaScript)
-- Technologies:  React Native, Node.js, Express, MongoDB, JWT, CSS, Material UI
-- Built a feature-rich mobile app for restaurant management, including user registration, menu browsing, note-taking, and review functionality.
+- Technologies:  Frontend: JavaScript, HTML, CSS, Backend: Node.js
+- Discover Twitter anew with our Twitter Application. It's more than just tweets—it's about posting, account creation, login, and liking.
 ---
 
 #### 🏢 Node Project (Backend: Node.js)
