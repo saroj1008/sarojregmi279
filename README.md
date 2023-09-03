@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 #### 🏢 Node Project (Backend: Node.js)
 [Manage Apartment in an area using NodeJS and MongoDB](https://github.com/sarojregmi279/Project-Restful-API-using-Postman-Node.js-Express.js-JWT)
 - Technologies: Node.js, MongoDB
-- Description of the Node.js project.
+- Our Apartment Management Backend Application is the key to efficient property management including features like booking apartment, see details, booking status .. etc. 
 <!-- Add more Angular projects -->
 ---
 
